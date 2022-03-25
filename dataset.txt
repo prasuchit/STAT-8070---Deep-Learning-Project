@@ -1,0 +1,4 @@
+http://ufldl.stanford.edu/housenumbers/train.tar.gz
+https://www.kaggle.com/datasets/dataturks/vehicle-number-plate-detection/download
+https://www.kaggle.com/datasets/andrewmvd/car-plate-detection/download
+
